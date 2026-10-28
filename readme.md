@@ -10,7 +10,8 @@ As a fresher building my data analytics and data science portfolio, I wanted to 
 
 ## 🖥️ My Power BI Dashboard
 
-&lt;!-- Note: When uploading your dashboard screenshot to GitHub in the same folder as README.md, name the image file &quot;dashboard_preview.jpg&quot; (or change the filename below to &quot;screenshot-1793191540603.jpg&quot; to match your uploaded file) --&gt;
+<img width="1846" height="1061" alt="screenshot-1793191540603" src="https://github.com/user-attachments/assets/e6984c2a-ec7d-4992-9457-7629ea7ad785" />
+
 
 
 ### What I Built in This Dashboard:
